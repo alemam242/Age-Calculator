@@ -23,6 +23,26 @@
             margin: 0 auto;
             display: block;
         }
+        .jumbotron {
+            position: relative;
+        }
+
+        .github-link {
+            position: absolute;
+            top: 10px; /* Adjust the top distance as needed */
+            right: 10px; /* Adjust the right distance as needed */
+            display: flex;
+            align-items: center;
+            color: #0366d6; /* GitHub link color */
+            text-decoration: none;
+        }
+
+        .github-logo {
+            width: 30px; /* Adjust the width of the GitHub logo */
+            margin-right: 10px; /* Add some spacing between the logo and text */
+        }
+
+
     </style>
 </head>
 
@@ -31,6 +51,10 @@
         <div class="jumbotron text-center shadow-sm p-3 mb-5 bg-body rounded">
             <p class=" h1">Age Calculator!</p>
             <p class="lead">Copyright © Alemam - <?php echo date("Y");?></p>
+
+            <a href="https://github.com/alemam242/Age-Calculator" target="_blank" class="github-link">
+                <img src="image/github.png" alt="GitHub Logo" class="github-logo">
+            </a>
         </div>
 
         <div class="row">
