@@ -1,5 +1,27 @@
+<br/>
+<p align="center">
+  <a href="https://github.com/alemam242/Age-Calculator">
+    <img src="image/brand-logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-# Age Calculator
+  <h3 align="center">Age Calculator</h3>
+
+  <p align="center">
+    <br/>
+    <br/>
+    <a href="https://www.canva.com/design/DAFyZUcVcGk/1QwrhbqVbTHup8uoq4WQow/watch?utm_content=DAFyZUcVcGk&utm_campaign=designshare&utm_medium=link&utm_source=editor">View Demo</a>
+    .
+    <a href="https://bit.ly/3Sg3C2x">Visit My Application</a>
+    .
+    <a href="https://github.com/alemam242/Age-Calculator/issues">Report Bug</a>
+  </p>
+</p>
+
+![Downloads](https://img.shields.io/github/downloads/alemam242/Age-Calculator/total) ![Contributors](https://img.shields.io/github/contributors/alemam242/Age-Calculator?color=dark-green) ![Issues](https://img.shields.io/github/issues/alemam242/Age-Calculator) ![License](https://img.shields.io/github/license/alemam242/Age-Calculator) 
+
+## About The Project
+
+![Screen Shot](image/screenshot.PNG)
 
 The Age Calculator Web Application is a user-friendly tool designed to help individuals quickly determine their age based on their birthdate and another specified date. Whether you're curious about your age in years, months, and days, or you need to calculate someone else's age, this application provides a simple and intuitive interface to perform accurate age calculations.
 
@@ -28,10 +50,28 @@ Who Is It For?
 This Age Calculator Web Application serves as a valuable educational and practical tool, offering accurate age calculations with a user-friendly interface. Whether you're a student, educator, developer, or an individual curious about your age, this application provides an effortless way to calculate and understand age differences.
 
 
+## Built With
+
+HTML, CSS, BOOTSTRAP, JAVASCRIPT, PHP
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/alemam242/Age-Calculator/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* Please make sure you check your spelling and grammar.
+
+### Creating A Pull Request
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
 ## Authors
 
-- [@alemam242](https://www.github.com/alemam242)
-
+* **Al Emam** - *Android App Developer | Web Developer* - [Al Emam](https://github.com/alemam242/)
 
 ## Badges
 
@@ -39,37 +79,9 @@ This Age Calculator Web Application serves as a valuable educational and practic
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-
-## Contributing
-
-Contributions are always welcome!
-
-
-Please adhere to this project's `code of conduct`.
-
-
-## Demo
--- Visit My-Application: https://bit.ly/3Sg3C2x
-
--- Demo Video: https://www.canva.com/design/DAFyZUcVcGk/1QwrhbqVbTHup8uoq4WQow/watch?utm_content=DAFyZUcVcGk&utm_campaign=designshare&utm_medium=link&utm_source=editor
-## Features
-
-- Fully Responsive
-- Cross platform
-
-
-## 🛠 Skills
-PHP, JAVASCRIPT, HTML, CSS, BOOTSTRAP...
-
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Screenshots
-
-![App Screenshot](https://www.canva.com/design/DAFyZUcVcGk/1QwrhbqVbTHup8uoq4WQow/watch?utm_content=DAFyZUcVcGk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 ## Support
