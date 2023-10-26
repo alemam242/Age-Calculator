@@ -32,8 +32,9 @@
             <p class=" h1">Age Calculator!</p>
             <p class="lead">Copyright © Alemam - <?php echo date("Y");?></p>
         </div>
+
         <div class="row">
-            <div class="col-4 mx-auto">
+            <div class="col-xl-5 col-lg-4 col-sm-6 mx-auto">
                 <form id="ageCalculatorForm">
                     <div class="form-group">
                         <label for="birthdate" class="mb-2">Your Birthdate:</label>
